@@ -1,0 +1,8 @@
+.ProfileCard {
+  margin-top: auto;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  border: 5px solid gray;
+  border-radius: 5px;
+}
